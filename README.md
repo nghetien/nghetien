@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nghetien
-- 👀 I’m interested in JS
+- 👀 I’m interested in JS, AI
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me https://www.facebook.com/profile.php?id=100009782866664
+- 📫 Contact me https://www.facebook.com/profile.php?id=100009782866664
 
 <!---
 nghetien/nghetien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
