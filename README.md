@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nghetien
-- 👀 I’m interested in JS, AI
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in JS, AI, Dart
+- 🌱 I’m a Front-end(ReactJS-VueJS) and Mobile(Flutter) developer
 - 📫 Contact me https://www.facebook.com/profile.php?id=100009782866664
 
 <!---
